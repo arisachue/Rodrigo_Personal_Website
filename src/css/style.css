@@ -1,0 +1,36 @@
+.heading {
+    background-color: black;
+    display: flex;
+    padding: 0px;
+    margin: 0;
+}
+#name {
+    color: white;
+    font-family: 'Abel', sans-serif;
+    font-size: 100px;
+    padding-right: 300px;
+}
+#rod_img {
+    border: 10px solid #ddd;
+    width: 300px;
+    border-radius:50%;
+    object-position: right; 
+}
+.bio {
+    background-color: grey;
+}
+h2 {
+    padding-top: 30px;
+    margin-top: 0;
+}
+.pet_pic {
+    height: 500px;
+    float: inline-start;
+}
+p {
+    margin-bottom: 0;
+    padding-bottom: 30px;
+}
+.pet{
+    background-color: beige;
+}
